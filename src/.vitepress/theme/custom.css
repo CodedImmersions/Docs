@@ -1,0 +1,39 @@
+:root {
+    --vp-c-brand-1: #2f67c7;
+    --vp-c-brand-2: #3a76dc;
+    --vp-c-brand-3: #3a87ff;
+    --vp-c-brand-soft: rgba(58, 135, 255, .14);
+
+    --vp-c-bg: #f8faff;
+    --vp-c-bg-alt: #f1f5fa;
+    --vp-c-bg-elv: #ffffff;
+    --vp-c-bg-soft: #eef3f9;
+    --vp-c-border: #d5deea;
+    --vp-c-divider: #e3eaf3;
+    --vp-c-gutter: #e8eef6;
+    --vp-c-text-1: #303b4a;
+    --vp-c-text-2: #596a7f;
+    --vp-c-text-3: #8795a8;
+}
+
+.dark {
+    --vp-c-brand-1: #4398ff;
+    --vp-c-brand-2: #3a92ff;
+    --vp-c-brand-3: #337dd8;
+    --vp-c-brand-soft: rgba(54, 120, 201, .18);
+
+    --vp-c-bg: #1a1d23;
+    --vp-c-bg-alt: #171a20;
+    --vp-c-bg-elv: #20242b;
+    --vp-c-bg-soft: #20242b;
+    --vp-c-border: #3d444f;
+    --vp-c-divider: #2e343d;
+    --vp-c-gutter: #11151b;
+    --vp-c-text-1: #e3e9f2;
+    --vp-c-text-2: #a6b0bf;
+    --vp-c-text-3: #778397;
+}
+
+.VPFeature.link:hover {
+    border-color: var(--vp-c-bg-soft) !important;
+}
