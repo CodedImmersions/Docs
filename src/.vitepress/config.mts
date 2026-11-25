@@ -21,7 +21,7 @@ export default defineConfig({
     ],
     themeConfig: {
         nav: [
-            {text: 'Projects', link: '/projects'},
+            {text: 'Projects', items: projects},
             {text: 'Main Website', link: 'https://codedimmersions.com/'},
         ],
         sidebar: {

@@ -4,6 +4,8 @@ Hello, and welcome to the Vercidium Audio for Unity documentation.<br/>
 Below is a quick summary of the plugin. For setup, see [Getting Started](./getting-started).
 
 ## Overview
+This plugin allows the use of [Vercidium Audio](https://vercidium.com) directly inside of Unity.
+
 
 ## Compatibility
 This plugin supports Unity 2021.3 LTS to 7000.0+.<br/>
